@@ -19,3 +19,15 @@ Also it would be nice to add a list. Here we go:
 2. Oranges
 3. Bananas
 4. Music
+
+Formatting information before:
+*Italics*
+~~I do not like coding~~
+***This is both italics and bold***
+**This is bold with a _word_ only italics**
+
+Let's make a table:
+| this is | the header | of my new | table |
+| ~~~ | ~~~ | ~~~ | ~~~ |
+
+Note that the first line of the "table" is just a header. You need another row to actually render a table.
