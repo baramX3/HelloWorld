@@ -38,3 +38,5 @@ Note that the first line of the "table" is just a header. You need another row t
 
 Adding an image:
 <img width="137" alt="Screen Shot 2022-08-29 at 11 25 38 AM" src="https://user-images.githubusercontent.com/2119795/187476018-6332ee74-9bdf-48f5-ac76-d010c300db1d.png">
+
+<alt="Screen Shot 2022-08-29 at 11 25 38 AM" src="https://user-images.githubusercontent.com/2119795/187476018-6332ee74-9bdf-48f5-ac76-d010c300db1d.png">
