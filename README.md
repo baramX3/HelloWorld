@@ -28,8 +28,12 @@ Formatting information before:
 
 Let's make a table:
 
-| this is | the header | of my new | table |
-| column 1 | column 2 | column 3 | column 4 |
-| I can  | write | anything | here |
+| This | is | a | table | header |
+
+| --- | --- | --- | --- | --- |
+
+| this | is | the | table's | content |
+
+| More | content | is | shown | here |
 
 Note that the first line of the "table" is just a header. You need another row to actually render a table.
