@@ -27,6 +27,7 @@ Formatting information before:
 **This is bold with a _word_ only italics**
 
 Let's make a table:
+
 | this is | the header | of my new | table |
 | ~~~ | ~~~ | ~~~ | ~~~ |
 
